@@ -1,6 +1,6 @@
-<img alt="akashsaha02" align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 # 💫 About Me:
+<img alt="akashsaha02" align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 🔭 I’m currently working on Full-Stack web development.<br><br>🌱 I’m currently learning React.<br><br>👯 I’m looking to collaborate on front-end related projects.<br><br>🤝 I’m looking for help with learning MEARN stack development<br><br>💬 Ask me about Java, C++, Javascript, Bootstrap CSS.<br><br>📫 Want to reach me : akashsaha1313@gmail.com
 
 
