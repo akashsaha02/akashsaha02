@@ -41,7 +41,7 @@ I’m a passionate **full-stack web developer** currently in my final year at **
 
 </div>
 <br/>
-<
+
 
 <div align='center'>
 
